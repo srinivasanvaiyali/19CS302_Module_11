@@ -14,6 +14,13 @@ To write a C program to print all the letters of the English alphabet.
    
 # Program:
 ```
+/*
+C program to find a square of number using function with arguments without return type.
+Developed by: SRINIVASAN V
+RegisterNumber:  212222043008
+*/
+```
+```
 #include <stdio.h>
 
 int main() {
